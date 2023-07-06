@@ -1,0 +1,13 @@
+* {
+    background-color: rgb(201, 242, 228);
+}
+.container input {
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+.container table {
+    margin: auto;
+    font-size: 20px;
+}
